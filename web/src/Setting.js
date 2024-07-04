@@ -1472,7 +1472,7 @@ export function getUserCommonFields() {
 }
 
 export function getDefaultFooterContent() {
-  return "Powered by <a target=\"_blank\" href=\"https://casdoor.org\" rel=\"noreferrer\"><img style=\"padding-bottom: 3px\" height=\"20\" alt=\"Casdoor\" src=\"https://cdn.casbin.org/img/casdoor-logo_1185x256.png\"/></a>";
+  return "Powered by Dave "; 
 }
 
 export function getEmptyFooterContent() {
